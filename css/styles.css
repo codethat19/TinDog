@@ -162,7 +162,7 @@ p {
 
 .btn-dark {
   background-color: #000;
-  /* border: 0; */
+  /*  border: 0; */
 }
 .btn-dark:hover {
   background-color: #FF4C68;
@@ -186,7 +186,7 @@ p {
   margin: 20px 10px;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1170px) {
   #title {
     text-align: center;
   }
